@@ -24,7 +24,7 @@ Kim_Seungku_Queries.sql
 /* 6. Find a Customer with Email */
 /* 7. Customer Borrowing a book */
 
--contains 5 complex analytical queries scenarios
+- contains 5 complex analytical queries scenarios
 /* 1. Find the books that has been issued in this libaray so far */
 /* 2. Find most frequent violation that customer */
 /* 3. What category type of book is most frequently issued? */
